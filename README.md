@@ -20,5 +20,4 @@ Files contain:
 + Optimization for 85 Bus system (the network data has presented or referenced in the second paper)
 + Optimization for EDN Bus system (the network data has presented or referenced in the second paper)
 
-#### In case of further questions please contact: sajjad.asefi1992@gmail.com
-All the best
+
